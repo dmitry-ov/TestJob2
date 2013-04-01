@@ -1,0 +1,58 @@
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Local Settings\Application Data\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ExceptionHandler.dll
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SQLite.NET.dll
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\dt.AK\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ExceptionHandler.dll
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SQLite.NET.dll
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ExceptionHandler.dll
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SQLite.NET.dll
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\d\Мои документы\My Dropbox\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ExceptionHandler.dll
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SQLite.NET.dll
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Рабочий стол\Search\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ExceptionHandler.dll
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SQLite.NET.dll
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchForm.resources
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\dt.AK\Рабочий стол\find\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
